@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://sunlight-god.github.io/News/sitemap.xml
